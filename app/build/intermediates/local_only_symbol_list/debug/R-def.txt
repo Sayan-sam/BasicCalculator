@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id backspace
+id clear
+id decimal
+id divide
+id eight
+id equals
+id five
+id four
+id minus
+id multiply
+id nine
+id one
+id percent
+id plus
+id seven
+id six
+id src
+id three
+id two
+id values
+id zero
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.BasicCalculator
